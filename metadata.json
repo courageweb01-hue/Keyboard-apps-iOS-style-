@@ -1,0 +1,7 @@
+{
+  "name": "Glass Keyboard",
+  "description": "Futuristic frosted glass custom keyboard IME app with glassmorphism themes, key customizer, sound effects, typing playground, and quick phrases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
